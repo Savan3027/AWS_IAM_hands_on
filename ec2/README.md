@@ -44,6 +44,11 @@ SSH
 All screenshots related to this EC2 practice are available in the screenshots folder.
 They demonstrate EC2 launch, SSH access, Python execution, library installation, and instance lifecycle management.
 
+## Commands
+
+All commands used during this EC2 practice are documented in the `commands` folder.
+
+
 ## Learning Outcome
 
 This hands on practice helped me understand how EC2 works in real world scenarios.
