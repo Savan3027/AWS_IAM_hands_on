@@ -114,4 +114,4 @@ Available inside the `screenshots/` folder.
 
 ## 👤 Author
 
-Your Name
+Savan Patel
